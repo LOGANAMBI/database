@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class Data {
-	//@SuppressWarnings("deprecation")
+
 	public static void main(String[] args) throws ClassNotFoundException, SQLException, InstantiationException, IllegalAccessException{
 		
 		Class.forName("com.mysql.cj.jdbc.Driver");
